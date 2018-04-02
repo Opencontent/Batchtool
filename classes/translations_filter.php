@@ -2,10 +2,6 @@
 
 class eZTranslationsFilter
 {
-    function eZTranslationsFilter()
-    {
-    }
-
     function createSqlParts( $params )
     {
         $sqlJoins = '';
